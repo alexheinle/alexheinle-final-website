@@ -4,21 +4,18 @@ date: 2019-07-11
 menu: main
 ---
 
-## College
+### Allegheny College - Meadville, PA
 
-Allegheny College, Meadville PA<br>
-August 2017 - (expected) May 2021<br>
-BS Computer Science, Math and Education double minor
-> Alden Scholar 2017-2018 <br>
-> Varsity Women's Swim and Dive Team <br>
-> Executive Board of Grounds for Change
->> Treasurer and Baked Good Sales
+Check out these links to learn more about Allegheny!
+1. [U.S News Best Colleges](https://www.usnews.com/best-colleges/allegheny-college-3230)
+2. [Princeton Review](https://sites.allegheny.edu/news/2018/08/08/princeton-review-names-allegheny-among-best-in-nation-2/)
 
-### High School
 
-Oakland Catholic High School, Pittsburgh PA<br>
-August 2013 - May 2017<br>
-High School Diploma
-> Highest Honor Roll<br>
-> High School Swim Team<br>
->> Captain 2016-2017
+> Expected Graduation: May 2021
+
+> Computer Science Major
+
+> Communications Minor
+
+### Kiski Area High School - Vandergrift, PA
+> Graduation Date: June 2017
