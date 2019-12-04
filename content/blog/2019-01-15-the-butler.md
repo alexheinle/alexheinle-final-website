@@ -17,4 +17,4 @@ Email:
 
 LinkedIn:
 
-[Click here for my linkedin](www.linkedin.com/in/alex-heinle)
+> www.linkedin.com/in/alex-heinle
