@@ -12,6 +12,7 @@ education along with my experience and projects.
 
 Email:
 > alexandraheinle@gmail.com
+
 > heinlea@allegheny.edu
 
 LinkedIn:
