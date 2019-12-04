@@ -6,3 +6,14 @@ draft: false
 ---
 Welcome to my personal site! Here, you can find information on my school and
 education along with my experience and projects.
+
+
+### Contact Me
+
+Email:
+> alexandraheinle@gmail.com
+>heinlea@allegheny.edu
+
+LinkedIn:
+
+[Linkedin Profile](www.linkedin.com/in/alex-heinle)
