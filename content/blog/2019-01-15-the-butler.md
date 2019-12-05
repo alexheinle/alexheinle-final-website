@@ -18,3 +18,7 @@ Email:
 LinkedIn:
 
 > www.linkedin.com/in/alex-heinle
+
+Github:
+
+<https://github.com/alexheinle>
