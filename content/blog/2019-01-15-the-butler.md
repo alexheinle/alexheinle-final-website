@@ -21,4 +21,4 @@ LinkedIn:
 
 Github:
 
-<https://github.com/alexheinle>
+> https://github.com/alexheinle
