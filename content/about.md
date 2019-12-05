@@ -5,3 +5,5 @@ menu: main
 ---
 
 ## Resume
+
+[Alex Heinle Résumé](/images/alexresume.png)
