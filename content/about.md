@@ -3,19 +3,24 @@ title: About
 date: 2019-07-09
 menu: main
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
 
-## How to use?
+## Resume
 
-### Managing content with [Forestry](https://forestry.io)
+Below is my resume. Check it out to learn more about my experience and skills.
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+[Alex Heinle Résumé](/images/alexresume.png)
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog)
+### Developer Narrative
 
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/starter-blog)
-
+Throughout the 20 years of my life, I have always been surrounded by new computer
+technology, gaming systems, and high tech cameras. My father works in the computer
+science industry and has always influenced my family to use the newest technology.
+This concept was hard to grasp at the time, considering technology was not
+prominent to the general population. I would attend the annual "Bring your
+Child to Work Day" at his company which took me farther down the path of learning
+about computer science and technology. In high school, I went with him to tech conferences and "Women in Technology" meetings where I learned about the importance of
+women in the STEM field and talked to many empowering female engineers.  
+Finally, I decided to take my first computer science class in high school.
+Everyday, I looked forward to the class and took pride in every assignment
+and loved every second of it! This is where everything came together and
+where I realized I want to be a computer scientist.
